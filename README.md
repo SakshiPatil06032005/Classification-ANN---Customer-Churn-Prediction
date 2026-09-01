@@ -2,7 +2,11 @@
 
 ## 📌 Overview
 
-This project predicts whether a customer is likely to **churn or stay** using an **Artificial Neural Network (ANN)**. The trained model is integrated with a **Streamlit web application** for easy and interactive predictions.
+This project predicts whether a customer is likely to **churn or stay** using an **Artificial Neural Network (ANN)**. The model is deployed using Streamlit.
+
+## 🚀 Live Demo
+
+👉 https://classification-ann---customer-churn-prediction-69yugjsf4pwjwfj.streamlit.app/
 
 ## 🛠️ Technologies
 
@@ -14,21 +18,14 @@ This project predicts whether a customer is likely to **churn or stay** using an
 
 ## 🔄 Workflow
 
-**Data Preprocessing → Feature Engineering → ANN Model → Training → Evaluation → Streamlit Deployment**
+**Data Preprocessing → ANN Model → Training → Evaluation → Streamlit Deployment**
 
-## 🚀 Run Locally
+## 💻 Run Locally
 
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
 ```
-
-## 🎯 Output
-
-The application predicts whether the customer is:
-
-* **Likely to Churn**
-* **Likely to Stay**
 
 ## 👩‍💻 Author
 
